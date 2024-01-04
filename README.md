@@ -2,6 +2,7 @@
 Lists all the images with .jpg extension in a given directory
 
 First input is the directory of your images
+
 Second input is the directory of the output excel file
 
 ----------------------------------------------------------------------
